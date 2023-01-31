@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b88d9be1-fe86-4027-82cb-ac94f6b03bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/RomanToInteger.java" afterDir="false" />
-    </list>
+    <list default="true" id="b88d9be1-fe86-4027-82cb-ac94f6b03bd6" name="Changes" comment="commit-second" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,7 +82,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ValidParentheses">
+  <component name="RunManager" selected="Application.SingleNumbers">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="edoCteeL" />
@@ -98,6 +95,19 @@
     </configuration>
     <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.RomanToInteger" />
+      <module name="edoCteeL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kg.kadyrbekov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.SingleNumbers" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -124,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumbers" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.RomanToInteger" />
       </list>
@@ -138,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674887531801</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit-second">
+      <created>1674989959450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674989959450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit-second" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit-second" />
   </component>
 </project>
