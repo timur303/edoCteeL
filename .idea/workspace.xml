@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b88d9be1-fe86-4027-82cb-ac94f6b03bd6" name="Changes" comment="commit-second">
+    <list default="true" id="b88d9be1-fe86-4027-82cb-ac94f6b03bd6" name="Changes" comment="commit-thred">
+      <change afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/search/BinaryI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/search/BinarI.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +86,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BinarI">
-    <configuration name="BinarI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.search.BinarI" />
+  <component name="RunManager" selected="Application.MajorityElement">
+    <configuration name="BinaryI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.search.BinaryI" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.MajorityElement" />
       <module name="edoCteeL" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kg.kadyrbekov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,7 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarI" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.BinaryI" />
         <item itemvalue="Application.SingleNumbers" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.RomanToInteger" />
@@ -179,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675177660140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit-thred">
+      <created>1675837230677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675837230677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +208,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit-second" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit-second" />
+    <MESSAGE value="commit-thred" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit-thred" />
   </component>
 </project>
