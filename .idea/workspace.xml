@@ -83,7 +83,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FirstBadVersion">
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="BinarI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.search.BinarI" />
       <module name="edoCteeL" />
@@ -110,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.ReverseWords" />
+      <module name="edoCteeL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kg.kadyrbekov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunningSumOf1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.RunningSumOf1dArray" />
       <module name="edoCteeL" />
@@ -123,21 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.SingleNumbers" />
-      <module name="edoCteeL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.ValidParentheses" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.TwoSum" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstBadVersion" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.RunningSumOf1dArray" />
+        <item itemvalue="Application.ReverseWords" />
+        <item itemvalue="Application.FirstBadVersion" />
         <item itemvalue="Application.BinarI" />
-        <item itemvalue="Application.SingleNumbers" />
-        <item itemvalue="Application.ValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676011996767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1676119403937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676119403937</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1676182955212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676182955212</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
