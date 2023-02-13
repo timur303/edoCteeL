@@ -83,13 +83,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="BinarI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.search.BinarI" />
+  <component name="RunManager" selected="Application.CountOdds">
+    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.CountOdds" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.search.*" />
+          <option name="PATTERN" value="kg.kadyrbekov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountOdds" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.RunningSumOf1dArray" />
         <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.FirstBadVersion" />
-        <item itemvalue="Application.BinarI" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676182955212</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1676304911957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676304911958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
