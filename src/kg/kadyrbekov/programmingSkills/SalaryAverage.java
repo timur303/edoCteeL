@@ -1,4 +1,4 @@
-package kg.kadyrbekov;
+package kg.kadyrbekov.programmingSkills;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

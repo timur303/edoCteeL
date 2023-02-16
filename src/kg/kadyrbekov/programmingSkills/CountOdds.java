@@ -1,4 +1,4 @@
-package kg.kadyrbekov;
+package kg.kadyrbekov.programmingSkills;
 
 public class CountOdds {
     public static void main(String[] args) {
