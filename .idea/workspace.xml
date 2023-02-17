@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b88d9be1-fe86-4027-82cb-ac94f6b03bd6" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/programmingSkills/SumOfAllOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/CountOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/programmingSkills/CountOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/HammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/programmingSkills/HammingWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/SalaryAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/programmingSkills/SalaryAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/SubtractSum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +84,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SubtractProductAndSum">
-    <configuration name="FirstBadVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.FirstBadVersion" />
+  <component name="RunManager" selected="Application.SumOfAllOdd">
+    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.CountOdds" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.SingleNumbers" />
+    <configuration name="SalaryAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.SalaryAverage" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtractSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.SubtractSum" />
+    <configuration name="SumOfAllOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.SumOfAllOdd" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfAllOdd" />
+        <item itemvalue="Application.SalaryAverage" />
+        <item itemvalue="Application.CountOdds" />
         <item itemvalue="Application.SubtractProductAndSum" />
         <item itemvalue="Application.HammingWeight" />
-        <item itemvalue="Application.SubtractSum" />
-        <item itemvalue="Application.SingleNumbers" />
-        <item itemvalue="Application.FirstBadVersion" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676570218478</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1676652252811</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676652252811</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
