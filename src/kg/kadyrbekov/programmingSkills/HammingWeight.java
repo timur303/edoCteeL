@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class HammingWeight {
     public static void main(String[] args) {
-//        System.out.println(hammingWeight(111));
+        System.out.println(hammingWeight(111));
     }
 
     public static int hammingWeight(int n) {

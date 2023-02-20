@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SumOfAllOdd {
     public static void main(String[] args) {
-        System.out.println(sumOddLengthSubarrays(new int[] {2,3,5}));
+        System.out.println(sumOddLengthSubarrays(new int[] {1,3,5,7}));
     }
 
     public static int sumOddLengthSubarrays(int[] arr) {
