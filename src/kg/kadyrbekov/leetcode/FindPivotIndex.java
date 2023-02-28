@@ -1,30 +1,21 @@
 package kg.kadyrbekov.leetcode;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class FindPivotIndex {
     public static void main(String[] args) {
 
-        System.out.println(pivotIndex(new int[] {2,1,-1}));
+        System.out.println(pivotIndex(new int[]{1,7,3,6,5,6}));
 
     }
 
-    public static int pivotIndex(int[] num) {
-//        Arrays.sort(num);
-        int left = num[0];
-        int right = num[0];
-        int count = 0;
-        for (int i = 0; i < num.length; i++) {
-            if (left <= num[i]) {
-                left += left;
-                count++;
-            }
-            if (right >= num[i]) {
-                right += right;
-            }
-        }
+    public static int pivotIndex(int[] nums) {
+        int total = 0;
+        for (int i : nums) total += i;
 
-        return count;
+        int left = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if ((total - nums[i] - left) == left) return i;
+            left+=nums[i];
+        }
+        return -1;
     }
 }
