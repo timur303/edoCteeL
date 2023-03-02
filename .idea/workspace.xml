@@ -91,20 +91,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
-    <configuration name="CheckIfOneString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.CheckIfOneString" />
-      <module name="edoCteeL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.programmingSkills.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseInt">
     <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.FindPivotIndex" />
       <module name="edoCteeL" />
@@ -118,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreqAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.FreqAlphabet" />
+    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.IsIsomorphic" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.programmingSkills.*" />
+          <option name="PATTERN" value="kg.kadyrbekov.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.IsIsomorphic" />
+    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ReverseInt" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ReverseString" />
+      <module name="edoCteeL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kg.kadyrbekov.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInt" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.IsIsomorphic" />
         <item itemvalue="Application.FindPivotIndex" />
-        <item itemvalue="Application.CheckIfOneString" />
-        <item itemvalue="Application.FreqAlphabet" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677692106334</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1677779991774</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677779991774</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
