@@ -91,7 +91,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.ClimbingStarsCost">
     <configuration name="ClimbingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ClimbingStars" />
       <module name="edoCteeL" />
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.Fibonacci" />
+    <configuration name="ClimbingStarsCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ClimbingStarsCost" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ReverseInt" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.Fibonacci" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbingStarsCost" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.ClimbingStars" />
         <item itemvalue="Application.SquaresSortedArray" />
         <item itemvalue="Application.RichestCustomerWealth" />
-        <item itemvalue="Application.ReverseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678470955066</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1678553419743</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678553419743</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,5 +378,16 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kg/kadyrbekov/leetcode/Fibonacci.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
