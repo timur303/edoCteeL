@@ -14,8 +14,5 @@ public class ClimbingStarsCost {
         }
 
         return Math.min(prev,prev2);
-
-
-
     }
 }
