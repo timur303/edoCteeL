@@ -1,4 +1,4 @@
 package kg.kadyrbekov.programmingSkills;
 
-public class ChekName {
+public class CheckName {
 }
