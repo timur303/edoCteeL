@@ -91,7 +91,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HappyNumber">
+  <component name="RunManager" selected="Application.ClimbingStarsCost">
     <configuration name="ClimbingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ClimbingStars" />
       <module name="edoCteeL" />
@@ -131,21 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.HappyNumber" />
-      <module name="edoCteeL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.PlusOne" />
+    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.RichestCustomerWealth" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquaresSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.algorithm.SquaresSortedArray" />
+      <module name="edoCteeL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kg.kadyrbekov.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.ClimbingStarsCost" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.ClimbingStars" />
+        <item itemvalue="Application.SquaresSortedArray" />
+        <item itemvalue="Application.RichestCustomerWealth" />
       </list>
     </recent_temporary>
   </component>
@@ -379,21 +379,7 @@
       <option name="project" value="LOCAL" />
       <updated>1678727334017</updated>
     </task>
-    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1678727648593</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1678727648593</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1678901041898</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1678901041898</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
