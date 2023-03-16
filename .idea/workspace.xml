@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b88d9be1-fe86-4027-82cb-ac94f6b03bd6" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/kadyrbekov/leetcode/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/kadyrbekov/leetcode/HappyNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HappyNumber">
+  <component name="RunManager" selected="Application.Hour">
     <configuration name="ClimbingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.ClimbingStars" />
       <module name="edoCteeL" />
@@ -131,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.leetcode.HappyNumber" />
+    <configuration name="Hour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.Hour" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.leetcode.*" />
+          <option name="PATTERN" value="kg.kadyrbekov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.programmingSkills.PlusOne" />
+    <configuration name="SquaresSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kg.kadyrbekov.algorithm.SquaresSortedArray" />
       <module name="edoCteeL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kg.kadyrbekov.programmingSkills.*" />
+          <option name="PATTERN" value="kg.kadyrbekov.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.PlusOne" />
+        <item itemvalue="Application.Hour" />
         <item itemvalue="Application.ClimbingStarsCost" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.ClimbingStars" />
+        <item itemvalue="Application.SquaresSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -379,21 +380,7 @@
       <option name="project" value="LOCAL" />
       <updated>1678727334017</updated>
     </task>
-    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1678727648593</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1678727648593</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1678901041898</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1678901041898</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

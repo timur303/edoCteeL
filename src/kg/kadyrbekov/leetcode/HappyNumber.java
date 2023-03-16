@@ -16,7 +16,6 @@ public class HappyNumber {
             while(n>0)
             {
                 int i = n%10;
-
                 tmp += i*i;
                 n = n/10;
             }
